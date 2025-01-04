@@ -9,5 +9,5 @@ setup(name='hockey',
       license='MIT',
       packages=['hockey'],
       python_requires='>=3.6',
-      install_requires=['gymnasium', 'numpy', 'box2d-py','pygame'],
+      install_requires=['gymnasium', 'numpy', 'Box2D','pygame'],
       zip_safe=False)
